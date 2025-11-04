@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|c:\\users\\asus\\onedrive\\desktop\\hometask-04-11-2025-\\homeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|solutionrelative:homeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|c:\\users\\asus\\onedrive\\desktop\\hometask-04-11-2025-\\homeee\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|solutionrelative:homeee\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|c:\\users\\asus\\onedrive\\desktop\\hometask-04-11-2025-\\homeee\\itradable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|solutionrelative:homeee\\itradable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|c:\\users\\asus\\onedrive\\desktop\\hometask-04-11-2025-\\homeee\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|solutionrelative:homeee\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|c:\\users\\asus\\onedrive\\desktop\\hometask-04-11-2025-\\homeee\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|solutionrelative:homeee\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|c:\\users\\asus\\onedrive\\desktop\\hometask-04-11-2025-\\homeee\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|solutionrelative:homeee\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|c:\\users\\asus\\onedrive\\desktop\\hometask-04-11-2025-\\homeee\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B0965C-92DF-D9D8-9CBB-826AEB6878DE}|Homeee\\Homeee.csproj|solutionrelative:homeee\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\Program.cs",
+              "RelativeDocumentMoniker": "Homeee\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\Program.cs",
+              "RelativeToolTip": "Homeee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:13:22.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsable.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\IUsable.cs",
+              "RelativeDocumentMoniker": "Homeee\\IUsable.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\IUsable.cs",
+              "RelativeToolTip": "Homeee\\IUsable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:13:09.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITradable .cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\ITradable .cs",
+              "RelativeDocumentMoniker": "Homeee\\ITradable .cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\ITradable .cs",
+              "RelativeToolTip": "Homeee\\ITradable .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:13:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\Item.cs",
+              "RelativeDocumentMoniker": "Homeee\\Item.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\Item.cs",
+              "RelativeToolTip": "Homeee\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:12:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\Inventory.cs",
+              "RelativeDocumentMoniker": "Homeee\\Inventory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\Inventory.cs",
+              "RelativeToolTip": "Homeee\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:11:43.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameStats.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\GameStats.cs",
+              "RelativeDocumentMoniker": "Homeee\\GameStats.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\GameStats.cs",
+              "RelativeToolTip": "Homeee\\GameStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:09:30.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "Homeee\\ExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\HomeTask-04-11-2025-\\Homeee\\ExtensionMethod.cs",
+              "RelativeToolTip": "Homeee\\ExtensionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:09:08.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
